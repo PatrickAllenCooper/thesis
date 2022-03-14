@@ -1,0 +1,12 @@
+3-13-22
+
+Continuous feedback or in other words -- reinforcement from a physics simulation could provide a superior signal
+relative to just building world models using unsupervised learning.
+
+Certainly where this is possible is only with simulation, so it may not be tenable for the sake of generality.
+
+Question: Is conventional software, Ansys, etc, adequate for the dataset size I require?
+
+Answer: No
+
+Solution: Using a python package of some kind.
