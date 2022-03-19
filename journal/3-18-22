@@ -1,0 +1,19 @@
+3-18-22
+
+The correct framework has been identified: https://github.com/peterdsharpe/AeroSandbox
+
+What comes next is clear to understand.
+
+1. Complete a complete literature review and furnish at least 20 papers on dynamical systems and VAE.
+2. Based upon this background examination use the above framework to construct a series of bounded experiments.
+3. Run experimental data through VAE and use it to construct a representative latent space.
+
+I speculate an appropriate latent result will require more than reconstruction loss... indeed I suspect this will
+require something particular and explicit about the quality of the symbolic reconstruction itself, but this will have
+to be examined first hand.
+
+I have begun to speculate on the exact drafting of my master's thesis, but I believe this will not be as complicated
+as you might imagine. I propose to examine 3 separate physical systems:
+
+There is no reason I cannot begin the working on the related work section today and begin precisely parameterizing the
+experiments by next week.
