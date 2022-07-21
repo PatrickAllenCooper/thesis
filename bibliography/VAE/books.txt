@@ -1,1 +1,3 @@
 Active Inference: Thomas Parr, Giovanni Pezzulo, Karl J. Friston
+
+Variational Methods for Machine Learning with Applications to Deep Networks: Lucas Pinheiro Cinelli, Matheus Araújo Marins, Eduardo Antônio Barros da Silva, Sérgio Lima Netto
