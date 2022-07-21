@@ -22,24 +22,4 @@ inspection, and depend on basic newtonian mechanics.
 
 ## Usage
 
-
-## Timeline
-April 2022: Complete Literature Review, Create Simple Dynamic System in Simulation, Design VAE To Encode First Dynamic
-System with Reasonably Disentangled Results
-
-May 2022: Create Complex Dynamic System in Simulation, Adapt VAE to Encode Results, Adapt Results to Team Requirements,
-Establish Best Loss to Achieve Desired Results
-
-June 2022: Create Simple Dynamic System as a Physical Experiment, Adapt VAE to Accommodate Simulation/Reality Jump
-
-July 2022: Refine Simulation/Reality Jump for Generality, Quantify Simulation/Reality Divide for Accuracy and Generality
-
-August 2022: Increase Complexity of Dynamic Systems Addressed Using Real World Data
-
-September 2022: Further Increase Complexity of Dynamic Systems Addressed Using Real World Data
-
-October 2022: Compile And Execute Final Set of Studies
-
-November 2022: Draft Thesis
-
-December 2022: Refine Thesis, Submit Thesis
+TODO
